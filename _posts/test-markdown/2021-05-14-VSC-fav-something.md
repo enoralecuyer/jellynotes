@@ -6,22 +6,11 @@ tags: [blog, visual studio code]
 
 **bold practice**
 
-*italic practice*
+***
 
-> this is this famous quote
+
 
 ![jelly avatar](jellythecube_transparent.png)
-
-```<div class="search-article">
-  <label for="search-input" aria-hidden="true">
-```
-
-```<p></p>```
-
-```bash
-$ (dollar sign)   # sh, ksh, bash
-% (percent sign)  # csh, tcsh
-```
 
 {% highlight ruby %}
 
