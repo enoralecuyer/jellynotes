@@ -11,6 +11,6 @@ When I am not coding and learning new languages, I am usually found hiking, gard
 
 **reach out ✨**
 
-[Email]: mailto:enora.lecuyer1@gmail.com
-[Portfolio]: https://www.enoralecuyer.com
-[GitHub]: https://github.com/enoralecuyer
+- Email {{mailto:enora.lecuyer1@gmail.com}}
+- Portfolio {{ https://www.enoralecuyer.com }}
+- GitHub {{ https://github.com/enoralecuyer }}
