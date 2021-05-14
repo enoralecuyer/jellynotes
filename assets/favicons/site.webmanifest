@@ -3,12 +3,12 @@
     "short_name": "",
     "icons": [
         {
-            "src": "🦔",
+            "src": "/hedgehog.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "🦔",
+            "src": "/hedgehog.png",
             "sizes": "384x384",
             "type": "image/png"
         }
