@@ -1,18 +1,16 @@
 ---
-title: Colophon
+title: About
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Hi, nice to meet you! Born and raised in France, I now live in Southern California with my wife and our dog and cat. 🍊 I have a professional background in art history, project management, and business coaching. After running a coaching business, I joined the customer service field where I delivered the best possible experience to clients in IT and accounting support. Today I am pursuing my love of software engineering.
 
-If you have a question about him or else, just send a letter to him.
+When I am not coding and learning new languages, I am usually found hiking, gardening or playing video games.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+**reach out ✨**
 
-**may u needs ✨**
-
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+- Email {{mailto:enora.lecuyer1@gmail.com}}
+- Portfolio {{ https://www.enoralecuyer.com }}
+- GitHub {{ https://github.com/enoralecuyer }}
