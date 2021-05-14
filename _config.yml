@@ -10,13 +10,13 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Enora Lecuyer # author name
+  name: Enora Notes # author name
   bio: >- # tell to the world
-    Enora Lecuyer - Software Engineer - Notes
+    Thoughts on tech, design and everything in between.
   username: enoralecuyer # general username
   github: enoralecuyer # github username
   email: enora.lecuyer1@gmail.com # email adress
-  avatar: /assets/img/avatar.png # change with your own avatar
+  avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
 url: "https://jellynotes.netlify.app/" #
